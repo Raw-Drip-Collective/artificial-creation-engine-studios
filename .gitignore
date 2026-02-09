@@ -40,3 +40,9 @@ yarn-error.log*
 # certificates
 certificates
 .env*.local
+
+.env*
+.next/
+build/
+dist/
+.turbo/
